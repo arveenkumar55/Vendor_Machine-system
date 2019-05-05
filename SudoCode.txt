@@ -1,0 +1,16 @@
+
+Steps of sudo code:
+
+if "1"
+   print ('Admin menu')
+          i) update/ Add new items (To add new items or updated old items)
+          ii) change prices (change the price of items)
+          iii) Print out summary (Print all available items)
+          iv) Print out cash (Print all cash)
+           v) Restock item  (Print all item that quantity below than 25)
+           vi) exit  (System terminates)
+
+
+else
+    print('User menu')
+            i) Purchase Item  (custmer can buy items) 
